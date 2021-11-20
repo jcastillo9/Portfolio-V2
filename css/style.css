@@ -92,6 +92,22 @@ main {
     color: rgb(97, 89, 89); 
 }
 
+#projects-list {
+    padding: 0.8rem;
+    text-align: center;
+}
+
+#projects-list img {
+    width:300px;
+    margin:0;
+}
+
+#projects-list h3, p, a {
+    text-decoration: none;
+    color: rgb(97, 89, 89);
+    margin: 0;
+}
+
 footer {
     text-align: center;
     padding: 2rem 1rem;
