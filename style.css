@@ -7,6 +7,10 @@ body{
     height: auto;
 }
 
+#landing {
+    background: #fff;
+}
+
 #landing-image {
     height: 50vh;
     flex: 0 1 60vh;
