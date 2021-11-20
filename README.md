@@ -33,3 +33,13 @@ Run using the github URL: https://jcastillo9.github.io/Portfolio-V2/
 # Screenshot
 <img src="/images/portfolio_landingpage.png"/>
 <img src="/images/portfolio_projectspage.png"/>
+
+## Credits
+ 
+Lead Developer - Janette Castillo (janette.castillo91@yahoo.com)
+FlatIcon - Icons used for Github, LinkedIn and Resume www.flaticon.com
+
+# License
+ 
+The MIT License (MIT)
+
