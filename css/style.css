@@ -83,6 +83,15 @@ main {
     padding-left: 1rem;
 }
 
+#about-info {
+    padding: 0.8rem;
+    text-align: center;
+}
+
+#about-info h3 {
+    color: rgb(97, 89, 89); 
+}
+
 footer {
     text-align: center;
     padding: 2rem 1rem;
