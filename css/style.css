@@ -130,3 +130,138 @@ footer a {
     color: #fff;
     text-decoration: underline;
 }
+
+/* Screen Sizes 768px and Up */
+@media(min-width: 768px) {
+    h1 {
+        font-size: 2.75em;
+        margin:0;
+    }
+    
+    h2 {
+        font-size: 1.4rem;
+        text-align: center;
+    }
+    #landing {
+        display: flex;
+        height: 100%;
+    }
+    
+    #landing-image {
+        height: 100vh;
+    }
+
+    #landing-image img {
+        width:400px;
+    }
+
+    #landing-text {
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        float: center;
+    }
+    
+    .icon {
+        padding-left: 50px;
+        width: 50px;
+    }
+    .header {
+        padding: 1.3rem;
+    }
+    
+    .header h2 {
+        font-size: 1.7rem;
+    }
+
+    #about-info {
+        font-size: 1.4rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        text-align: center;
+    }
+
+    #projects-list {
+        display: flex;
+        justify-content: center;
+        padding: 2rem;
+    }
+
+    #projects-list img {
+        width:400px;
+        margin: 0;
+    }
+
+    footer h3 {
+        font-size: 2rem;
+    }
+}
+
+/* Screen Sizes 600px and Up */
+@media(min-width: 1060px) {
+    h1 {
+        font-weight: 400;
+        font-size: 3em;
+    }
+    
+    h2 {
+        font-weight: 400;
+        font-size: 1.5rem;
+    }
+    
+    #landing {
+        display: flex;
+        height: 100%;
+        width:100%;
+    }
+    
+    #landing-image {
+        height: 100vh;
+    }
+
+    #landing-image img {
+        width: 700px;
+    }
+
+    #landing-text {
+        width: 50%;
+        height: 100vh;
+    }
+
+    .icon {
+        padding-left:60px;
+        width: 60px;
+    }
+    
+    .header {
+        padding: 1.3rem;
+    }
+    
+    .header h2 {
+        font-size: 2rem;
+    }
+
+    #about-info {
+        font-size: 1.7rem;
+        padding: 2rem;
+        text-align: center;
+    }
+
+    #projects-list {
+        display: flex;
+        justify-content: center;
+        padding: 2rem;
+    }
+
+    #projects-list img {
+        width:500px;
+        margin: 0;
+    }
+
+    footer {
+        padding: 1rem 1rem;
+    }
+
+    footer h3 {
+        font-size: 2rem;
+    }
