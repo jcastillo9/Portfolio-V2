@@ -25,6 +25,7 @@ As an employer, I want to view a potential employee's deployed portfolio of work
 # Technologies Used
 * HTML
 * Javascript
+* Media Queries
 
 # Installation
 Run using the github URL: https://jcastillo9.github.io/Portfolio-V2/
