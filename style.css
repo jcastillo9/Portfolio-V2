@@ -6,3 +6,33 @@ body{
     background: #eee;
     height: auto;
 }
+
+#landing-image {
+    height: 50vh;
+    flex: 0 1 60vh;
+    margin: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    float: center;
+}
+
+#landing-image img {
+    width:400px;
+}
+
+#landing-text {
+    display: flex;
+    flex: 0 1 50vw;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    float: center;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    background: #eee;
+}
+
+#landing-text h2 {
+    color: #888;
+}
