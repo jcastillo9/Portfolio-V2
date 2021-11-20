@@ -40,3 +40,9 @@ body{
 #landing-text h2 {
     color: #888;
 }
+
+.icon {
+    padding-left: 45px;
+    width: 50px;
+    display:inline-block;
+}
